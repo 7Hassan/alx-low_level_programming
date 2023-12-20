@@ -2,7 +2,7 @@
 
 /**
  * main - entry point
- * Description: prints _putchar using putchar prototype
+ * Description: print_alphabet using putchar prototype
  *
  * Return: On success 1.
  */
