@@ -1,10 +1,8 @@
 #include "main.h"
 
 /**
- * main - entry point
- * Description: print_alphabet using putchar
- *
- * Return: On success 1.
+ * print_alphabet - utilies on putchar
+ *		a to z
  */
 void print_alphabet(void)
 {
